@@ -1,0 +1,5 @@
+This folder contains Image file(s) with following format
+
+# Image Resolution should be 640x480 or more
+# Number Plate background color should be white.
+# Number should be in English(Alpha Numeric)
